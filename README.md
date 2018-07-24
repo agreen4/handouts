@@ -8,6 +8,7 @@ If the repository does not contain a data folder, [download] a zipped data file 
 
 ## Collaborators
 - Andrew Greenlee 
+- Christopher Bren d'Amour
 
 [download]: https://files.sesync.org/pydio/public/09bb83
 [CONTRIBUTING.md]: CONTRIBUTING.md
